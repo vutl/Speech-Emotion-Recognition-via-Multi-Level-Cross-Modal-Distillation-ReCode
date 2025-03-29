@@ -1,0 +1,13 @@
+MELD dataset\
+  ├── MELD-RAW\
+  │   └── MELD.Raw\
+  │       ├── dev\
+  │       │   └── dev_splits_complete\*.mp4
+  │       ├── test\
+  │       │   └── output_repeated_splits_test\*.mp4
+  │       ├── train\
+  │       │   ├── train_splits\*.mp4
+  │       │   └── train_sent_emo.csv
+  │       ├── dev_sent_emo.csv
+  │       ├── test_sent_emo.csv
+  │       └── README.txt
